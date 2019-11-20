@@ -5,6 +5,7 @@
       {
         "appID": "6U5MU37ARC.com.cidentigo.NFC-bg-ProductScanner",
         "paths": ["*"]
+        
       }
     ]
   }
